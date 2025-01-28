@@ -5,5 +5,4 @@ salad
 star wars
 harry potter
 lord of the rings
-star trek
 bad guys
